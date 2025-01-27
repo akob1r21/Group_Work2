@@ -1,0 +1,191 @@
+/*! tailwindcss v4.0.0 | MIT License | https://tailwindcss.com */
+@tailwind base;
+@tailwind components;
+.relative {
+  position: relative;
+}
+.m-auto {
+  margin: auto;
+}
+.mx-auto {
+  margin-inline: auto;
+}
+.my-\[50px\] {
+  margin-block: 50px;
+}
+.block {
+  display: block;
+}
+.flex {
+  display: flex;
+}
+.hidden {
+  display: none;
+}
+.w-\[25\%\] {
+  width: 25%;
+}
+.w-\[100\%\] {
+  width: 100%;
+}
+.w-\[18\%\] {
+  width: 18%;
+}
+.w-\[45\%\] {
+  width: 45%;
+}
+.w-\[70\%\] {
+  width: 70%;
+}
+.w-\[80\%\] {
+  width: 80%;
+}
+.w-\[90\%\] {
+  width: 90%;
+}
+.w-\[95\%\] {
+  width: 95%;
+}
+.w-\[300px\] {
+  width: 300px;
+}
+.w-full {
+  width: 100%;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.items-center {
+  align-items: center;
+}
+.items-start {
+  align-items: flex-start;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-end {
+  justify-content: flex-end;
+}
+.gap-\[10px\] {
+  gap: 10px;
+}
+.gap-\[20px\] {
+  gap: 20px;
+}
+.gap-\[25px\] {
+  gap: 25px;
+}
+.rounded-\[5px\] {
+  border-radius: 5px;
+}
+.rounded-\[25px\] {
+  border-radius: 25px;
+}
+.border-t-\[1px\] {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 1px;
+}
+.border-r-\[1px\] {
+  border-right-style: var(--tw-border-style);
+  border-right-width: 1px;
+}
+.border-b-\[1px\] {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 1px;
+}
+.border-\[white\] {
+  border-color: white;
+}
+.bg-\[\#1D1D1D\] {
+  background-color: #1D1D1D;
+}
+.bg-\[\#673A44\] {
+  background-color: #673A44;
+}
+.bg-\[\#843546\] {
+  background-color: #843546;
+}
+.bg-\[\#F2F2F2\] {
+  background-color: #F2F2F2;
+}
+.p-\[15px\] {
+  padding: 15px;
+}
+.px-\[25px\] {
+  padding-inline: 25px;
+}
+.py-\[15px\] {
+  padding-block: 15px;
+}
+.pt-\[10px\] {
+  padding-top: 10px;
+}
+.pt-\[20px\] {
+  padding-top: 20px;
+}
+.pr-\[50px\] {
+  padding-right: 50px;
+}
+.pb-\[10px\] {
+  padding-bottom: 10px;
+}
+.pb-\[20px\] {
+  padding-bottom: 20px;
+}
+.text-center {
+  text-align: center;
+}
+.text-end {
+  text-align: end;
+}
+.text-\[12px\] {
+  font-size: 12px;
+}
+.text-\[14px\] {
+  font-size: 14px;
+}
+.text-\[21px\] {
+  font-size: 21px;
+}
+.text-\[22px\] {
+  font-size: 22px;
+}
+.text-\[25px\] {
+  font-size: 25px;
+}
+.text-\[26px\] {
+  font-size: 26px;
+}
+.text-\[36px\] {
+  font-size: 36px;
+}
+.font-\[400\] {
+  --tw-font-weight: 400;
+  font-weight: 400;
+}
+.font-\[700\] {
+  --tw-font-weight: 700;
+  font-weight: 700;
+}
+.text-\[grey\] {
+  color: grey;
+}
+@property --tw-border-style {
+  syntax: "*";
+  inherits: false;
+  initial-value: solid;
+}
+@property --tw-font-weight {
+  syntax: "*";
+  inherits: false;
+}
